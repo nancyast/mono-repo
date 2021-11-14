@@ -1,0 +1,7 @@
+{
+  "private": "true",
+  "name": "mono-repos-yarn-workspaces",
+  "workspaces": [
+    "packages/*"
+  ]
+}
