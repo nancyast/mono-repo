@@ -2,5 +2,8 @@
   "name": "@mono-repos-yarn-workspaces/adminclient",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'Hello world from admin client'"
+  }
 }
