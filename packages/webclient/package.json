@@ -1,13 +1,13 @@
 {
   "name": "@mono-repos-yarn-workspaces/webclient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo 'Hello world from webclient'"
   },
   "dependencies": {
-    "@mono-repos-yarn-workspaces/adminclient": "1.0.0",
+    "@mono-repos-yarn-workspaces/adminclient": "^1.0.1",
     "bootstrap": "^5.1.3"
   }
 }
